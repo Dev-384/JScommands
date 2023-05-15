@@ -1,6 +1,6 @@
 # JScommands
 
-## Node Commands
+## NPM Commands
 
 **`npm run jsc-run`**
 
